@@ -1,0 +1,9 @@
+# app-ads.txt — PolygonRiver (Reel Runner)
+# Upload to the ROOT of the developer website: https://polygon-river.github.io/app-ads.txt
+# The same domain must be set as "Marketing URL" / developer website in App Store Connect and as "Website" in Google Play Console.
+#
+# The game uses Unity Ads only (direct integration, no mediation).
+# Organization Core ID = Organization ID from Unity Cloud Dashboard -> Administration -> Organization settings.
+# Never invent IDs: a wrong publisher ID is worse than a missing line.
+
+unity.com, 7972529940896, DIRECT, 96cabb5fbdde37a7
